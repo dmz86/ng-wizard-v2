@@ -1,0 +1,35 @@
+{
+  "name": "ng-wizard-v2",
+  "description": "Angular ng-wizard - Angular wizard | stepper",
+  "version": "3.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/varunpandurangaiah/ng-wizard-v2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/varunpandurangaiah/ng-wizard-v2/issues"
+  },
+  "author": "Abdulkadir Genç <gencakadir@gmail.com>",
+  "contributors": ["Varun Pandurangaiah <varunp5814@gmail.com>"],
+  "homepage": "https://github.com/varunpandurangaiah/ng-wizard-v2",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "@angular/common": "~13.3.12",
+    "@angular/core": "~13.3.12",
+    "bootstrap": "^4.3.1"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "keywords": [
+    "angular",
+    "wizard",
+    "stepper",
+    "ng-wizard",
+    "wizard-component",
+    "stepper-component",
+    "step-wizard",
+    "bootstrap"
+  ]
+}
